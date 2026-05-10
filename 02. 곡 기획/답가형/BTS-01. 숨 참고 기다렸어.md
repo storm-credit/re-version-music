@@ -28,21 +28,21 @@ title_en: Held My Breath
 - **화자**: 세상이 힘들어서 사랑하는 사람에게 빠져들고 싶은 사람
 - **메시지**: Bad world에서 벗어나 너에게 dive 하고 싶다, 물속에서는 시간도 슬픔도 없다
 - **감정**: 해방감, 사랑에 빠져드는 설렘, 세상으로부터의 탈출
-- **키 라인**: "I just wanna dive" / "I could spend a lifetime watching you" / "Under here we don't chase the time"
+- **감정 단서**: 현실을 벗어나 물속으로 들어가고 싶어 하는 피난처 이미지, 시간 정지감, 오래 바라보는 사랑
 
 ## 2. 답가 설정
 
 - **답가 화자**: SWIM에서 노래를 받는 상대방 — 물속에서 먼저 기다리고 있던 사람
 - **시점**: 상대가 드디어 물속으로 뛰어든 순간
 - **핵심 문장**: I was already in the deep, waiting for you to dive
-- **대비**: SWIM이 'I wanna dive into you'면, 답가는 'I've been here, holding my breath, waiting for you to jump in'
+- **대비**: 원곡이 물속으로 뛰어들고 싶은 사람의 고백이라면, 답가는 이미 깊은 곳에서 오래 기다리던 사람의 대답
 - **감정 흐름**: 혼자 물속에 있던 외로움 → 상대가 뛰어드는 순간 → 드디어 함께 숨 쉴 수 있다는 안도
 - **언어**: 영어 (원곡과 같은 언어로 직접 대화)
 
 ## 3. 쇼츠 훅
 
-- "You said dive — I was already underwater"
-- "The answer to BTS SWIM"
+- "I was already underwater when you arrived"
+- "A SWIM-inspired original fan response"
 - "I held my breath until you jumped in"
 
 ---
@@ -75,7 +75,7 @@ I was beneath the waves before your dive
 A shadow in the quiet blue
 
 [Verse 2]
-You said you'd spend a lifetime watching me
+You promised your eyes would stay with me
 But I've been looking up from deeper waters
 You stood along the shore so long
 While I was learning how to live in stillness
@@ -499,15 +499,15 @@ Calm water surface with gentle sunlight, a figure floating peacefully on the sur
 ## 10. 업로드 정보
 
 ### 제목 옵션
-- "Held My Breath — A Fan's Answer to BTS SWIM"
-- "BTS SWIM Response Song | Held My Breath"
+- "Held My Breath — SWIM-Inspired Original Fan Song"
+- "Held My Breath | Unofficial Original Fan Response"
 - "I Held My Breath for Years | SWIM Answer Song"
 
 ### 설명
 ```
 "You said dive — I was already in the deep."
 
-An original song. Unofficial fan response inspired by the emotions of SWIM.
+An original song. Unofficial fan response inspired by the emotional premise of SWIM.
 This is not a cover, remix, or official release.
 All music and lyrics are original.
 
@@ -664,7 +664,7 @@ All music and lyrics are original.
 
 | 시간 | 내용 |
 |------|------|
-| 0~3초 | 훅: "A fan's answer to BTS SWIM" |
+| 0~3초 | 훅: "An unofficial SWIM-inspired fan song" |
 | 3~8초 | Verse 1 (달력 장면) |
 | 8~12초 | Pre-Chorus |
 | 12~32초 | **Chorus 풀** (수면 돌파 → 보라바다) |
@@ -680,14 +680,14 @@ All music and lyrics are original.
 ### STEP 5. 업로드
 
 #### YouTube
-- **제목**: Held My Breath — A Fan's Answer to BTS SWIM | Re:Version Music
+- **제목**: Held My Breath — SWIM-Inspired Original Fan Song | Re:Version Music
 - **설명**: → 위 10번 업로드 정보 참고
 - **예약**: 한국시간 저녁 7시
 - **썸네일**: thumbnail.png
 
 #### TikTok
 - 쇼츠 편집본 그대로
-- 캡션: "I held my breath for years 🫧 A fan's answer to BTS SWIM #BTS #SWIM #ARMY #FanSong"
+- 캡션: "I held my breath for years. An unofficial original fan song inspired by SWIM. #BTS #SWIM #FanSong"
 
 ---
 

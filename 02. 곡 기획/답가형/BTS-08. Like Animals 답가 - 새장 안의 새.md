@@ -35,7 +35,7 @@ Korean Alternative Rock, Distorted Guitar, Driving Drums, Desperate Male Vocal, 
 ```
 [Intro]
 (cage rattling sound)
-(muffled "Like Animals" playing in distance)
+(distant radio-like ambience, no recognizable melody or lyrics)
 (then: clean guitar riff)
 
 [Verse 1]
