@@ -1,0 +1,4 @@
+interface:
+  display_name: "ReVersion Character Sheet"
+  short_description: "Build character sheets for OST concepts"
+  default_prompt: "Use $reversion-character-sheet to create character sheets for fanfic OST or original story songs."

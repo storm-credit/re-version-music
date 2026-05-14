@@ -1,0 +1,4 @@
+interface:
+  display_name: "ReVersion Production Bible"
+  short_description: "Build complete per-song production bibles"
+  default_prompt: "Use $reversion-production-bible to create a complete production bible for a Re:Version Music song."

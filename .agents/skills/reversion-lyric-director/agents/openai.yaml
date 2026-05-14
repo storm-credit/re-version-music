@@ -1,0 +1,4 @@
+interface:
+  display_name: "ReVersion Lyric Director"
+  short_description: "Shape Korean lyrics around emotional hooks"
+  default_prompt: "Use $reversion-lyric-director to write or revise lyrics for a Re:Version Music song."

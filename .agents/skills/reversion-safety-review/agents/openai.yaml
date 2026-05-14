@@ -1,0 +1,4 @@
+interface:
+  display_name: "ReVersion Safety Review"
+  short_description: "Check copyright and brand risk early"
+  default_prompt: "Use $reversion-safety-review to audit a Re:Version Music song for copyright and brand safety."

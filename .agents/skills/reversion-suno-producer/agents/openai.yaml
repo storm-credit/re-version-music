@@ -1,0 +1,4 @@
+interface:
+  display_name: "ReVersion Suno Producer"
+  short_description: "Prepare and judge Suno generation runs"
+  default_prompt: "Use $reversion-suno-producer to create Suno prompts and selection criteria for a song."

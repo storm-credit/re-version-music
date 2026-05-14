@@ -1,0 +1,4 @@
+interface:
+  display_name: "ReVersion Orchestra Director"
+  short_description: "Direct Re:Version song production decisions"
+  default_prompt: "Use $reversion-orchestra-director to run a deep orchestra review for a new Re:Version Music song."

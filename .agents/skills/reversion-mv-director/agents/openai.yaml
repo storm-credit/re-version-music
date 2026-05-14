@@ -1,0 +1,4 @@
+interface:
+  display_name: "ReVersion MV Director"
+  short_description: "Plan longform music videos and prompts"
+  default_prompt: "Use $reversion-mv-director to design a longform MV package for a Re:Version song."

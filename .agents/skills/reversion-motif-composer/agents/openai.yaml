@@ -1,0 +1,4 @@
+interface:
+  display_name: "ReVersion Motif Composer"
+  short_description: "Turn references into original song blueprints"
+  default_prompt: "Use $reversion-motif-composer to transform strong song references into safe original composition directions."
