@@ -15,6 +15,7 @@
 - [[Phase 2 오케스트라 실행 계획]]
 - [[Production Bible Builder MVP 기능 명세]]
 - [[ReVersion 구조 감사 - 노래 우선 운영안]]
+- [[Suno 전문가 노래 우선 게이트]]
 - [[ReVersion 웹앱 시스템 아키텍처]]
 - [[ReVersion 웹앱 DB 모델]]
 - [[ReVersion 웹앱 UX UI 설계]]
