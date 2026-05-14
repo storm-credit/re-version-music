@@ -1,0 +1,4 @@
+interface:
+  display_name: "Re:Version Web Platform Architect"
+  short_description: "Designs production cockpit architecture."
+  default_prompt: "Design a Re:Version Music production web app with system architecture, database model, UX/UI screens, phase gates, model routing, and OddEngine-inspired workflow."

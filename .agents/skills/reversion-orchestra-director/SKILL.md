@@ -27,6 +27,7 @@ Re:Version Music은 커버 채널이 아니다. 원곡의 멜로디, 가사, 고
 | 롱폼 MV가 필요하다 | `reversion-mv-director` | 16:9 장면표, 영상 프롬프트, 자막/썸네일 |
 | 팬픽OST/세계관 곡이다 | `reversion-character-sheet` | 캐릭터 감정 시트, 시각/서사 안전선 |
 | 곡별 전체 제작 지휘서가 필요하다 | `reversion-production-bible` | 캐릭터, 음악, 스토리보드, 비디오, 편집 통합 바이블 |
+| 웹앱/시스템/DB/UX 설계가 필요하다 | `reversion-web-platform-architect` | 제작 cockpit, 아키텍처, DB, UX/UI 설계 |
 | 원곡/IP/아티스트가 언급된다 | `reversion-safety-review` | 위험 등급, 금지/허용 요소, 공개 문구 |
 
 ## Deep Orchestra Flow
